@@ -33,16 +33,16 @@ This project focuses on predicting customer purchasing behavior using both class
 * Logistic Regression
 
                          Classification Report
-                  precision    recall  f1-score   support
+                   precision    recall  f1-score   support
 
-No Purchased=0       0.92      0.97      0.94        58
-   Purchased=1       0.89      0.77      0.83        22
+ No Purchased=0       0.92      0.97      0.94        58
+   Purchased=1        0.89      0.77      0.83        22
 
       accuracy                           0.91        80
-     macro avg       0.91      0.87      0.89        80
-  weighted avg       0.91      0.91      0.91        80
+     macro avg        0.91      0.87      0.89        80
+   weighted avg       0.91      0.91      0.91        80
 
-Jaccard Score: 0.71
+ Jaccard Score: 0.71
 
 
 
