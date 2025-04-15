@@ -8,7 +8,8 @@ This project focuses on predicting customer purchasing behavior using both class
 
 # Requirements
 
-  Install dependencies using : pip install pandas numpy matplotlib seaborn scikit-learn jupyter
+ Install the following Python libraries before running the project:
+ pip install numpy pandas matplotlib seaborn scikit-learn tensorflow
 
 # How to Use
 
