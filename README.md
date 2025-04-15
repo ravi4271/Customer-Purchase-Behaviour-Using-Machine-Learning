@@ -32,8 +32,8 @@ This project focuses on predicting customer purchasing behavior using both class
 
 * Logistic Regression
 
--------------------- Classification Report --------------------
-                precision    recall  f1-score   support
+                         Classification Report
+                  precision    recall  f1-score   support
 
 No Purchased=0       0.92      0.97      0.94        58
    Purchased=1       0.89      0.77      0.83        22
