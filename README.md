@@ -5,6 +5,20 @@ This project focuses on predicting customer purchasing behavior using both class
 # Dataset
  [datasets/Customer_Behaviour.csv](datasets/Customer_Behaviour.csv) – Raw customer behavior data used for training and evaluation.
 
+
+# Requirements
+
+Install dependencies using
+
+pip install pandas numpy matplotlib seaborn scikit-learn jupyter
+
+# How to Use
+
+* Open the Jupyter Notebook: jupyter notebook CustomerPrediction.ipynb
+
+* Run the notebook to explore data insights.
+
+
 # Features & Methods
 ## 1. Data Preprocessing & Cleaning
 
@@ -52,7 +66,23 @@ This project focuses on predicting customer purchasing behavior using both class
 ![Visualization Of Prediction](images/visualize.png)
 
 
+* Deep Learning (TensorFlow)
 
+                          Classification Report
+                        precision    recall  f1-score   support
+
+      No Purchased=0       0.98      0.95      0.96        58
+      Purchased=1          0.88      0.95      0.91        22
+      accuracy                                 0.95        80
+      macro avg            0.93      0.95      0.94        80
+      weighted avg         0.95      0.95      0.95        80
+
+
+![Model Sequential](images/param.png)
+
+![ROC CURVE](images/Roccurve.png)
+
+![ROC curve](images/Confusion.png)
 
 
 
