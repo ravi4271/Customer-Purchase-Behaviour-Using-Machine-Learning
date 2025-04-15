@@ -17,9 +17,9 @@ This project focuses on predicting customer purchasing behavior using both class
 
 ## 2. Feature Correlation Analysis
 
-![Count Of Gender](images/Count of gender.png)
+![Count Of Gender](images/Countofgender.png)
 
-![Count Of purchased](images/Count of purchased.png)
+![Count Of purchased](images/Countofpurchased.png)
 
 ![Correlation Heatmap](images/Correlation.png)
 
