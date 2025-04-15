@@ -19,3 +19,6 @@ This project focuses on predicting customer purchasing behavior using both class
 
 ![Correlation Heatmap](images/Correlation.png)
 
+![Scatter Plot of Features](images/scatter plot.png)
+
+
