@@ -25,4 +25,7 @@ This project focuses on predicting customer purchasing behavior using both class
 
 ![Scatter Plot of Features](images/scatterplot.png)
 
+![3D PlotBased on Age, Estimated Salary, Gender and Purchased](images/newplot.png)
+
+
 
