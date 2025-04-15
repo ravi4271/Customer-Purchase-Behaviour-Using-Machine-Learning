@@ -19,7 +19,7 @@ This project focuses on predicting customer purchasing behavior using both class
 
 ![Count Of Gender](images/Countofgender.png)
 
-![Count Of purchased](images/Countofpurchased.png)
+![Count Of purchased](images/countofpurchased.png)
 
 ![Correlation Heatmap](images/Correlation.png)
 
