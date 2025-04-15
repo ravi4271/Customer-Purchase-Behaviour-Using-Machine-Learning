@@ -47,7 +47,7 @@ This project focuses on predicting customer purchasing behavior using both class
 
 ![Model](images/model.png)
 
-![ROC curve](images/roc.png)
+![ROC curve](images/Roc.png)
 
 ![Visualization Of Prediction](images/visualize.png)
 
