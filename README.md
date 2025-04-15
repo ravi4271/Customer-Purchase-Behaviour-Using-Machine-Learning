@@ -85,4 +85,9 @@ This project focuses on predicting customer purchasing behavior using both class
 ![ROC curve](images/Confusion.png)
 
 
+# License
+
+This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
+
+
 
