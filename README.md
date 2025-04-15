@@ -8,15 +8,15 @@ This project focuses on predicting customer purchasing behavior using both class
 
 # Requirements
 
-Install dependencies using
+ Install dependencies using
 
-pip install pandas numpy matplotlib seaborn scikit-learn jupyter
+ pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 
 # How to Use
 
-* Open the Jupyter Notebook: jupyter notebook CustomerPrediction.ipynb
+ * Open the Jupyter Notebook: jupyter notebook CustomerPrediction.ipynb
 
-* Run the notebook to explore data insights.
+ * Run the notebook to explore data insights.
 
 
 # Features & Methods
