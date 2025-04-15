@@ -18,5 +18,5 @@ This project focuses on predicting customer purchasing behavior using both class
 
 2. Feature Correlation Analysis
 
-![Correlation Heatmap](Correlation.png)
+![Correlation Heatmap](images/Correlation.png)
 
