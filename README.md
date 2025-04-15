@@ -43,7 +43,13 @@ This project focuses on predicting customer purchasing behavior using both class
       Jaccard Score: 0.71
 
 
+![Confusion Matrix](images/Confusionmatrix.png)
 
+![Model](images/model.png)
+
+![ROC curve](images/roc.png)
+
+![Visualization Of Prediction](images/visualize.png)
 
 
 
